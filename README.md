@@ -131,7 +131,7 @@ DRAM-Fault-Prediction/
 
 ## 🎓 Results
 
-## 📊 Feature Importance
+ 📊 Feature Importance
 
 ![Feature Importance](feature_importance.png)
 
