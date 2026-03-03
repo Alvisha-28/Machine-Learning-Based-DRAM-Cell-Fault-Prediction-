@@ -118,24 +118,6 @@ Common dominant features:
 
 ---
 
-## 🚀 How to Run
-
-1. Clone the repository:
-
-git clone https://github.com/yourusername/DRAM-Fault-Prediction.git
-
-2. Install dependencies:
-
-pip install numpy pandas matplotlib scikit-learn
-
-3. Run Jupyter Notebook:
-
-jupyter notebook
-
-4. Open the notebook and execute all cells.
-
----
-
 ## 📁 Project Structure
 
 DRAM-Fault-Prediction/
@@ -148,6 +130,10 @@ DRAM-Fault-Prediction/
 ---
 
 ## 🎓 Results
+
+## 📊 Feature Importance
+
+![Feature Importance](feature_importance.png)
 
 - High classification accuracy achieved
 - Random Forest effectively modeled nonlinear DRAM behavior
