@@ -133,7 +133,7 @@ DRAM-Fault-Prediction/
 
 ## 📊 Feature Importance
 
-![Feature Importance](images/feature_importance(1).png)
+![Feature Importance](feature_importance.png)
 
 - High classification accuracy achieved
 - Random Forest effectively modeled nonlinear DRAM behavior
